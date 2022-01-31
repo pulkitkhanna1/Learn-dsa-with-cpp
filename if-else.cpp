@@ -1,3 +1,4 @@
+// Online C++ compiler to run C++ program online
 #include <iostream>
 using namespace std;
 
@@ -14,6 +15,8 @@ int main() {
     }else if (b<a){
         cout<<"2nd number is smaller";
     
+}else{
+    cout<<"numbers are equal";
 }
     
 }
